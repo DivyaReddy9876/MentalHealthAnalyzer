@@ -26,8 +26,8 @@ Adding support for more mental health categories.
 Enhancing the GUI for a better user experience.
 
 
-Usage:![Screenshot 2025-01-01 003049](https://github.com/user-attachments/assets/1c33f019-febc-4c28-9f19-a00afe036e8e)
-![Screenshot 2024-12-31 232943](https://github.com/user-attachments/assets/3f8487d4-fcf1-4bc0-9a69-2fab28e1faed)
+Usage:![Screenshot 2024-12-31 232943](https://github.com/user-attachments/assets/3f8487d4-fcf1-4bc0-9a69-2fab28e1faed)
+![Screenshot 2025-01-01 003049](https://github.com/user-attachments/assets/1c33f019-febc-4c28-9f19-a00afe036e8e)
 ![Screenshot 2024-12-31 232130](https://github.com/user-attachments/assets/2d9bed4b-31d0-4814-9fc5-b94b9612effe)
 
 Input a text describing mental health symptoms into the interface.
